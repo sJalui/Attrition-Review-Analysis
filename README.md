@@ -6,7 +6,7 @@
 
 ![Screenshot](https://github.com/sJalui/Infosys-Springboard-Task-1/blob/main/Attrition%20Data.png?raw=true)
 
-# ✨ Attrition Data Analysis with Power BI | Infosys Springboard Task 1 
+# ✨ Attrition Data Analysis with Power BI | Infosys Springboard Project
 
 Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built an `Attrition Dataset Analysis`. Using `Power BI and it's tools`.
 
