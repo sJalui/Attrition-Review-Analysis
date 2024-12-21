@@ -4,7 +4,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Screenshot](https://github.com/sJalui/Infosys-Springboard-Task-1/blob/main/Attrition%20Data.png?raw=true)
+![Screenshot](https://github.com/sJalui/Attrition-Review-Analysis/blob/main/Attrition%20Data.png?raw=true)
 
 # ✨ Attrition Data Analysis with Power BI | Infosys Springboard Project
 
